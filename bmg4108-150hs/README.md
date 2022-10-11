@@ -24,6 +24,10 @@
 
 ![Profiler Results](st-motor-profiler-results.PNG)
 
+# Hand Measured
+
+Phase-phase resistance measured with a DMM was 12.4 Ω
+
 > **Note**
 >
-> ST identified resistance is 1/2 the spec resistance.
+> Based on hand mesaurement, it looks like ST reports the single phase resistance, while the motor spec lists the phase-phase resistance.
