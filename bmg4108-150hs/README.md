@@ -2,7 +2,7 @@
 ![image](image.jpg)
 
 # Source
-* URL: [Amazon](https://www.amazon.com/gp/product/B00YEGVOII/ref=ppx_yo_dt_b_search_asin_title)
+* Purchase Link: [Amazon](https://www.amazon.com/gp/product/B00YEGVOII/ref=ppx_yo_dt_b_search_asin_title)
 * Cost: $35 as of 10-Oct-2022
 
 # Specs
@@ -25,4 +25,5 @@
 ![Profiler Results](st-motor-profiler-results.PNG)
 
 > **Note**
+>
 > ST identified resistance is 1/2 the spec resistance.
