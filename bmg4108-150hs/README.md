@@ -19,3 +19,10 @@
 | Winding Resistance |12.0 Ω |
 | KV | 80 RPM/V |
 | Weight | 93 gm |
+
+# ST Motor Profiler Test Results
+
+![Profiler Results](st-motor-profiler-results.png)
+
+> **Note**
+> ST identified resistance is 1/2 the spec resistance.
