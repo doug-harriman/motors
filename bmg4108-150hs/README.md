@@ -22,7 +22,7 @@
 
 # ST Motor Profiler Test Results
 
-![Profiler Results](st-motor-profiler-results.png)
+![Profiler Results](st-motor-profiler-results.PNG)
 
 > **Note**
 > ST identified resistance is 1/2 the spec resistance.
