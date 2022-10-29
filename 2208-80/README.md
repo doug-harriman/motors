@@ -43,3 +43,14 @@ Phase-phase resistance measured with a DMM was XX Ω
 > **Note**
 >
 > Based on hand mesaurement, it looks like ST reports the single phase resistance, while the motor spec lists the phase-phase resistance.
+
+# Characterization Base
+
+![Base Image](base-render.png)
+
+## Files
+
+* [STL](Base-2208.STL)
+* [SolidWorks](Base-2208.SLDPRT)
+* [Prusa Slicer Project](Base-2208.3mf)
+* [Ender3 Pro G-Code](Base-2208_1h20m_0.20mm_205C_PLA_ENDER3.gcode)
