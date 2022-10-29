@@ -46,7 +46,7 @@ Phase-phase resistance measured with a DMM was \<TBD\> Ω
 
 ## Files
 
-* [SolidWorks](2804h-100t/2804-base.SLDPRT)
-* [STL](2804h-100t/2804-base.STL)
-* [Prusa Slicer Project](2804h-100t/2804-base.3mf)
+* [SolidWorks](2804-base.SLDPRT)
+* [STL](2804-base.STL)
+* [Prusa Slicer Project](2804-base.3mf)
 

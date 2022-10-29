@@ -36,5 +36,5 @@ Phase-phase resistance measured with a DMM was 12.4 Ω
 
 ## Files
 
-* [STL](4108-150hs/4108-base.STL)
-* [Pruse Slicer Project](4108-150hs/4108-base.3mf)
+* [STL](4108-base.STL)
+* [Pruse Slicer Project](4108-base.3mf)
