@@ -20,13 +20,13 @@
 | KV | 80 RPM/V |
 | Weight | 39 gm |
 
-(Turn count from [another supplier's]((https://www.aliexpress.us/item/2251801357113153.html)) similar motor )
+(Turn count from [another supplier's](https://www.aliexpress.us/item/2251801357113153.html) similar motor )
 
 # Drawing
 
 ![drawing](drawing.jpg)
 
-(Drawing from [another supplier's]((https://www.aliexpress.us/item/2251801357113153.html)) similar motor )
+(Drawing from [another supplier's](https://www.aliexpress.us/item/2251801357113153.html) similar motor )
 
 # ST Motor Profiler Test Results
 
