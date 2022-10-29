@@ -31,3 +31,10 @@ Phase-phase resistance measured with a DMM was 12.4 Ω
 > **Note**
 >
 > Based on hand mesaurement, it looks like ST reports the single phase resistance, while the motor spec lists the phase-phase resistance.
+
+# Characterization Base
+
+## Files
+
+* [STL](4108-150hs/4108-base.STL)
+* [Pruse Slicer Project](4108-150hs/4108-base.3mf)
