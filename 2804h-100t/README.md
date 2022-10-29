@@ -20,6 +20,10 @@ TBD.  Recived with ST P-NUCLEO-IHM03 development kit.
 | KV | 145 RPM/V |
 | Weight | 41.42 gm |
 
+# Drawing
+
+![Drawing](2804-drawing.png)
+
 # ST Motor Profiler Test Results
 
 TBD
@@ -35,3 +39,9 @@ Phase-phase resistance measured with a DMM was \<TBD\> Ω
 >
 > Based on hand mesaurement, it looks like ST reports the single phase resistance, while the motor spec lists the phase-phase resistance.
 --->
+
+# Characterization Base
+
+![Base Image](2804-base.png)
+
+![STL](2804-base.STL)
