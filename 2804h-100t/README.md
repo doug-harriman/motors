@@ -26,9 +26,7 @@ TBD.  Recived with ST P-NUCLEO-IHM03 development kit.
 
 # ST Motor Profiler Test Results
 
-TBD
-
-<!--- ![Profiler Results](st-motor-profiler-results.PNG) --->
+![Profiler Results](st-motor-profiler-results.png)
 
 # Hand Measured
 
