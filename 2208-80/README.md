@@ -10,7 +10,7 @@
 | Spec | Value |
 | ---- | --- |
 | Part Number | GM2208-80 |
-| Magnetic Configuration |  |
+| Magnetic Configuration | \<xx\>N14P |
 | Coil Wire Diameter |  |
 | Coil Turns | 70? |
 | Motor Diameter | 28 mm |
