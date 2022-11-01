@@ -30,9 +30,7 @@
 
 # ST Motor Profiler Test Results
 
-To-Do
-
-<!--- ![Profiler Results](st-motor-profiler-results.PNG) --->
+![Profiler Results](st-motor-profiler-results.png)
 
 # Hand Measured
 
