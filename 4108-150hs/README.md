@@ -16,7 +16,7 @@
 | Motor Diameter | 46 mm |
 | Motor Thickness | 25 mm |
 | Shaft Diameter | Hollow 5.0 mm |
-| Winding Resistance |12.0 Ω |
+| Winding Resistance (ph-ph) |12.0 Ω |
 | KV | 80 RPM/V |
 | Weight | 93 gm |
 
