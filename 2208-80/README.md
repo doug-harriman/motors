@@ -24,7 +24,7 @@
 
 # Drawing
 
-![drawing](drawing.jpg)
+![drawing](2208-drawing.png)
 
 (Drawing from [another supplier's](https://www.aliexpress.us/item/2251801357113153.html) similar motor )
 
