@@ -24,9 +24,19 @@
 
 # Drawing
 
+Updated CAD based on files from: https://grabcad.com/library/quanum-motor-2208-1
+
 ![drawing](2208-drawing.png)
 
 (Drawing from [another supplier's](https://www.aliexpress.us/item/2251801357113153.html) similar motor )
+
+## CAD Files
+
+* [Solidworks Assembly](QUANUM GIMBAL MOTOR 2208 ASM.SLDASM)
+* [Solidworks Part: Rotor](QUANUM GIMBAL MOTOR 2208 OUTRUNNER.SLDPRT)
+* [Solidworks Part: Base](QUANUM GIMBAL MOTOR 2208 BASE.SLDPRT)
+* [Solidworks Drawing](QUANUM GIMBAL MOTOR 2208 ASM.SLDDRW)
+* [Drawing PDF](2208-drawing.pdf)
 
 # ST Motor Profiler Test Results
 
