@@ -1,8 +1,11 @@
 
 ![image](image.jpg)
 
+> ⚠️  Had 1x of these motors and had damaged the windings.  Disposed of the part on 10-Dec-2023.
+ 
 # Source
 * Purchase Link: [Amazon](https://www.amazon.com/gp/product/B00YEGVOII/ref=ppx_yo_dt_b_search_asin_title)
+  * As of 10-Dec-2023, no longer available on Amazon.   
 * Cost: $35 as of 10-Oct-2022
 
 # Specs
