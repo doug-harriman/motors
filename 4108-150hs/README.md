@@ -1,8 +1,11 @@
 
 ![image](image.jpg)
 
+> ⚠️  Had 1x of these motors and had damaged the windings.  Disposed of the part on 10-Dec-2023.
+ 
 # Source
 * Purchase Link: [Amazon](https://www.amazon.com/gp/product/B00YEGVOII/ref=ppx_yo_dt_b_search_asin_title)
+  * As of 10-Dec-2023, no longer available on Amazon.   
 * Cost: $35 as of 10-Oct-2022
 
 # Specs
@@ -16,7 +19,7 @@
 | Motor Diameter | 46 mm |
 | Motor Thickness | 25 mm |
 | Shaft Diameter | Hollow 5.0 mm |
-| Winding Resistance |12.0 Ω |
+| Winding Resistance (ph-ph) |12.0 Ω |
 | KV | 80 RPM/V |
 | Weight | 93 gm |
 
