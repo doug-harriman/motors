@@ -25,3 +25,12 @@ where the 1000 is for the kRPM to RPM conversion in the $K_e$ units.
 ## General
 
 See [this paper](media/How-to-Model-Brushless-Electric-Motors.pdf) from the Univeristy of Michigan for a detailed description of the complexity of understanding BLDC parameters.  There is also a [YouTube video](https://www.youtube.com/watch?v=jrWDBkeOVQY) that explains the paper.
+
+# Suppliers
+
+* T-Motor
+  * [Gimbal Motors](https://store.tmotor.com/categorys/gimbal-motor) - KV26 - ~150
+ 
+* iFlight
+  * [Gimbal Motors](https://shop.iflight.com/gimbal-motors-cat44)
+  
