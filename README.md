@@ -22,9 +22,11 @@ $K_v = \frac{1000}{K_e * \sqrt2}$
 
 where the 1000 is for the kRPM to RPM conversion in the $K_e$ units.
 
-## General
+## References
 
-See [this paper](media/How-to-Model-Brushless-Electric-Motors.pdf) from the Univeristy of Michigan for a detailed description of the complexity of understanding BLDC parameters.  There is also a [YouTube video](https://www.youtube.com/watch?v=jrWDBkeOVQY) that explains the paper.
+* Great [paper](media/How-to-Model-Brushless-Electric-Motors.pdf) from the Univeristy of Michigan for a detailed description of the complexity of understanding BLDC parameters.  There is also a [YouTube video](https://www.youtube.com/watch?v=jrWDBkeOVQY) that explains the paper.
+* [YouTube video](https://www.youtube.com/watch?v=e0sQnVmE7DU) with nice explanation of Space Vector Modulation and the various coordinate transforms used in FOC.
+* [YouTube video](https://www.youtube.com/watch?v=AmS22zwl2EA) covering some nice details of implementing FOC on an STM32 MCU and TI 3-phase driver.
 
 # Suppliers
 
